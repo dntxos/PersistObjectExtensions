@@ -1,0 +1,4 @@
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\PersistObjectExtensions\bin\Debug\PersistObjectExtensions.dll
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\PersistObjectExtensions\bin\Debug\PersistObjectExtensions.pdb
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\PersistObjectExtensions\obj\Debug\PersistObjectExtensions.dll
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\PersistObjectExtensions\obj\Debug\PersistObjectExtensions.pdb

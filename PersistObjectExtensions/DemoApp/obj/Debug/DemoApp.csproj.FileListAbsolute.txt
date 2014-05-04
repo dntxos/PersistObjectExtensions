@@ -1,0 +1,8 @@
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\bin\Debug\DemoApp.exe.config
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\bin\Debug\DemoApp.exe
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\bin\Debug\DemoApp.pdb
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\bin\Debug\PersistObjectExtensions.dll
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\bin\Debug\PersistObjectExtensions.pdb
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\obj\Debug\DemoApp.exe
+c:\users\dntxos\documents\visual studio 2013\Projects\PersistObjectExtensions\DemoApp\obj\Debug\DemoApp.pdb
